@@ -8,11 +8,11 @@
     --main-color:#B82F2F;
     --hover-color:##D41212
 }
-[style*="background-color: rgb(200, 0, 40)"]{
+[style*="background-color: rgb(114, 137, 218)"]{
     background-color:var(--main-color)!important
 }
-[style*="border-color: rgb(200, 0, 40)"]{
-    border-color:rgba(255,65,0,.4)!important
+[style*="border-color: rgb(114, 137, 218)"]{
+    border-color:rgba(0,255,255,.4)!important
 }
 .app,.callout-backdrop,canvas{
     background-image:url(https://i.imgur.com/Mu4SNn6.jpg)!important;
